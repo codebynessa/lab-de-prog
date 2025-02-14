@@ -1,0 +1,5 @@
+nome: cd 'c:\Users\vf230\Documents\vanessafferreira802.679\output'
+CPF: & .\'ex2.exe'
+data de nascimento: cd 'c:\Users\vf230\Documents\vanessafferreira802.679\output'
+enderecoo: & .\'ex2.exe'
+-------------------------
