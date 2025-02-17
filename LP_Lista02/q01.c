@@ -1,23 +1,23 @@
-/*FaÁa um programa que leia o valor do sal·rio de uma pessoa e o valor de um financiamento
-pretendido. Caso o financiamento seja menor ou igual a 5 vezes o sal·rio da pessoa, o programa
-dever· escrever ìFinanciamento Concedidoî, caso contr·rio ele dever· escrever ìFinanciamento
-Negadoî.*/
+/*Fa√ßa um programa que leia o valor do sal√°rio de uma pessoa e o valor de um financiamento
+pretendido. Caso o financiamento seja menor ou igual a 5 vezes o sal√°rio da pessoa, o programa
+dever√° escrever ‚ÄúFinanciamento Concedido‚Äù, caso contr√°rio ele dever√° escrever ‚ÄúFinanciamento
+Negado‚Äù.*/
 
 
 #include<stdio.h>
 void main()
 {
     float sal, fin;
-    printf("\n Informe o valor do seu salario: ");
+    printf("\n informe o valor do seu salario: ");
     scanf("%g", &sal);
-    printf("\n Informe o valor do financiamento: ");
+    printf("\n informe o valor do financiamento: ");
     scanf("%g", &fin);
     if(fin<=5*sal)
     {
-        printf("\nFinanciamento concedido");
+        printf("\nfinanciamento concedido");
     }
     else{
-        printf("\nFinanciamento negado");
+        printf("\nfinanciamento negado");
     }
 }
 
